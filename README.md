@@ -1,5 +1,17 @@
 # PDF Q&A System
 
+## Getting Started
+
+1. Extract the tar file:
+```bash
+# On Windows (using PowerShell)
+tar -xzf task3.tar.gz
+
+# On Unix/macOS
+tar -xzf task3.tar.gz
+```
+
+## Project Overview
 A web application that allows users to upload PDF documents and ask questions about their content. The system uses vector embeddings and semantic search to provide accurate answers and relevant suggestions.
 
 ## Features
